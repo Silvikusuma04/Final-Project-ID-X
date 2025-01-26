@@ -1,11 +1,11 @@
 # Final Project Intern ID/X Partners: Credit Risk Prediction
 
 ## Deskripsi
-Tujuan dari proyek ini adalah untuk membangun model machine learning yang dapat memprediksi risiko kredit calon peminjam dengan akurat menggunakan dataset yang disediakan oleh perusahaan. 
+Tujuan dari proyek ini adalah untuk membangun model machine learning yang dapat memprediksi risiko kredit calon peminjam dengan akurat menggunakan dataset yang disediakan oleh perusahaan.
 
 ## Dataset
 Dataset yang digunakan dalam proyek ini adalah "Data Pinjaman 2007-2014", yang dapat diunduh dari [link ini](https://drive.google.com/file/d/1JVG3_QQx8is4xWfPUrkMxbWev6c3VC-e/view?usp=sharing).
-Dataset ini berisi informasi tentang pinjaman yang dikeluarkan antara tahun 2007 dan 2014.  Informasi yang terdapat di dalamnya meliputi jumlah pinjaman, suku bunga, jangka waktu, grade, lama kerja, kepemilikan rumah, pendapatan tahunan, tujuan pinjaman, dan status pinjaman. Dataset ini memiliki sekitar 466.285 baris dan 75 kolom. Dataset ini bersumber dari Lending Club dan tersedia untuk umum.
+Dataset ini berisi informasi tentang pinjaman yang dikeluarkan antara tahun 2007 dan 2014.  Informasi yang terdapat di dalamnya meliputi jumlah pinjaman, suku bunga, jangka waktu, grade, lama kerja, kepemilikan rumah, pendapatan tahunan, tujuan pinjaman, dan status pinjaman. Dataset ini memiliki sekitar 466.285 baris dan 75 kolom.
 
 **Fitur Utama:**
 | Fitur          | Tipe Data    | Deskripsi                                                                                                                               | Contoh Nilai            |
